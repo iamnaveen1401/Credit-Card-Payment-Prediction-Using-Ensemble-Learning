@@ -6,11 +6,7 @@ What it is
 - Predict whether a credit card client will pay the next month's bill using ensemble ML methods (Random Forest, Gradient Boosting, stacking, etc.).
 
 Quick setup (Windows PowerShell)
-1. Open PowerShell and go to the project folder:
-
-```powershell
-Set-Location -Path "C:\Users\iamna\Desktop\My Projects"
-```
+1. Open PowerShell and go to the project folder
 
 2. Create and activate a virtual environment, then install dependencies:
 
@@ -49,3 +45,4 @@ Notes
 
 Contact / License
 - Add your name, email, and preferred license if you want to share the project publicly.
+
